@@ -1,0 +1,5 @@
+artifacts/raw/
+__pycache__/
+*.json
+.env
+venv/
